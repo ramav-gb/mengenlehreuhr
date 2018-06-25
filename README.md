@@ -7,10 +7,10 @@
 * Mengenlehreuhr class has a main method,
   Running this will display the Mengenlehreuhr for current time and also at 12:10:03
 For 12:10:03 the following will be displayed -  
-O
-RROO
-RROO
-YYOOOOOOOOO
-OOOO  
+O<br />
+RROO<br />
+RROO<br />
+YYOOOOOOOOO<br />
+OOOO<br />
     
  where O is off, R is red and Y is Yellow
